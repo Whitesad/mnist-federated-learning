@@ -1,0 +1,5 @@
+Minist Data
+*.zip
+*.jpg
+.vscode
+__pycache__
